@@ -2,7 +2,7 @@
 
 A **Streamlit-based chatbot** that assists users with health-related questions using **LangGraph workflows**, retrieval from historical Q&A, and a GPT-4o-powered LLM. The system ensures responses are grounded in documents and avoids hallucinations.
 
-👉 **[Live Demo](https://agnos-agent-hbdghnp5uwfrgeojdmfxhy.streamlit.app)**
+👉 **[https://agnos-agent-hbdghnp5uwfrgeojdmfxhy.streamlit.app](https://agnos-agent-hbdghnp5uwfrgeojdmfxhy.streamlit.app)**
 ---
 
 ## Features
