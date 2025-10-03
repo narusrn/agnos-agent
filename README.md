@@ -26,7 +26,7 @@ A **Streamlit-based chatbot** that assists users with health-related questions u
 
 ```bash
 git clone https://github.com/narusrn/agnos-agent.git
-cd REPO
+cd agnos-agent
 ```
 
 2. Install dependencies:
