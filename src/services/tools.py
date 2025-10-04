@@ -61,8 +61,6 @@ def get_retriever_from_forum(file_path: str):
     for i in range(0, len(documents), batch_size):
         vectorstore.add_documents(documents[i:i+batch_size])
 
-    vectorstore.persist()
-
     return vectorstore.as_retriever(search_kwargs={"k": 5})
 
 def document_search(question: str) -> dict:
